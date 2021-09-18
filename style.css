@@ -259,7 +259,7 @@ img{
     
 }
 
-@media only screen and (max-height:800px){
+@media only screen and (max-height:800px) and (max-width:320px){
     .image{
         display: block;
         width: 250px;
