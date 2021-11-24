@@ -28,4 +28,27 @@ a{
     text-decoration: none;
     color: #1D9Bf0;
     font-size: 24px;
+    display: flex;
+    align-items: center;
+    
+}
+a span{
+    color: black;
+    font-size: 14px;
+    padding: 5px;
+}
+.email {
+    font-size: 18px;
+    color: #000;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+.email span{
+    font-size: 14px;
+    color: black;
+    padding: 5px;
+}
+.links{
+    display: flex;
 }
