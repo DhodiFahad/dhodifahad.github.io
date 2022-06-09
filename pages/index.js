@@ -2,10 +2,8 @@ import { About } from "../comp/about";
 import { Contact } from "../comp/contact";
 import { Hero } from "../comp/hero";
 import { Nav } from "../comp/nav";
-import { Talk } from "../comp/talk";
 import {Footer} from '../comp/footer';
 import { Socials } from "../comp/socials";
-import styles from '../styles/Home.module.css'
 import Head from "next/head";
 
 export default function Home() {

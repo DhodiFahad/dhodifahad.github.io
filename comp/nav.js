@@ -10,19 +10,19 @@ export const Nav = ()=>{
             <nav className={styles.nav}>
                 <ul className={styles.nav_ul}>
                     <li className={styles.active}>
-                        <a>
+                        
                             Home
-                        </a>
+                       
                     </li>
                     <li>
-                        <a>
+                       
                             Projects
-                        </a>
+                        
                     </li>
                     <li>
-                        <a>
+                       
                             Blog
-                        </a>
+                       
                     </li>
                 </ul>
                 <Talk/>
