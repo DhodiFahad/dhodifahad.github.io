@@ -3,5 +3,18 @@
     /* width: 200px; */
     background-color: #27292A;
     color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 15px 10px;
+    font-size: 18px;
 
+}
+.wrapper span{
+    padding: 0px 10px;
+}
+
+.icons{
+    cursor: pointer;
+    font-size: 18px;
+    color: #E5202B;
 }

@@ -1,18 +1,17 @@
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faVolumeHigh } from '@fortawesome/free-solid-svg-icons'
+import { FaSoundcloud } from 'react-icons/fa';
+import {AiFillSound} from 'react-icons/ai'
 import styles from '../styles/Vibes.module.css'
 
 export const Vibes = () =>{
     return (
         <div className={styles.wrapper}>
-            <FontAwesomeIcon icon="fa-brands fa-soundcloud" />
-
+            <FaSoundcloud className={styles.icons}/>            
             <span>
                 Dhodi Vibes
             </span>
 
-            <FontAwesomeIcon icon={faVolumeHigh}/>
+            <AiFillSound className={styles.icons}/>
         </div>
     )
 }

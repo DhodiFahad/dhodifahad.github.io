@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 20px 10%;
 
 }
 .nav{
@@ -12,3 +13,17 @@
 .nav_ul{
     display: flex;
 }
+.nav_ul li{
+    list-style: none;
+    padding: 0px 15px;
+}
+.active{
+    color: #E5202B;
+}
+
+@media (max-width: 650px){
+    .nav{
+        display: none;
+    }
+}
+    

@@ -9,7 +9,7 @@ export const Nav = ()=>{
             <Vibes/>
             <nav className={styles.nav}>
                 <ul className={styles.nav_ul}>
-                    <li>
+                    <li className={styles.active}>
                         <a>
                             Home
                         </a>

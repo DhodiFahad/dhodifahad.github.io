@@ -1,0 +1,11 @@
+.socials{
+    display: flex;
+    margin: 0px auto;
+}
+.socials li{
+    list-style: none;
+    padding: 10px;
+}
+@media (max-width: 650px){
+    
+}
