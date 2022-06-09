@@ -12,9 +12,9 @@ export default function Home() {
       <Head>
         <title>Dhodi Fahad Kinene | Software Engineer</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="og:title" content="I am full-stack developer and QA automation engineer" key="Dhodi Fahad Kinene | Software Engineer" />
   
       </Head>
+      
       <Socials/>
       <Nav/>
       <Hero/>
