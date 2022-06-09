@@ -6,8 +6,8 @@ const nextConfig = {
     loader:"akamai",
     path:"",
   },
-  basePath:"dhodifahad.github.io/",
-  assetPrefix:"dhodifahad.github.io/",
+  basePath:"/dhodifahad.github.io",
+  assetPrefix:"/dhodifahad.github.io",
 }
 
 module.exports = nextConfig
