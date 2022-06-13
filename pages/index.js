@@ -11,7 +11,8 @@ export default function Home() {
     <div>
       <Head>
         <title>Dhodi Fahad Kinene | Software Engineer</title>
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" key="key1" />
+        <meta property="og:title" content="I am full-stack developer and QA automation engineer" key="title" />
   
       </Head>
       
