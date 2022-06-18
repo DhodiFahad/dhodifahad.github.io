@@ -18,3 +18,12 @@
     font-size: 18px;
     color: #E5202B;
 }
+
+@media (max-width: 750px){
+    .wrapper{
+        padding: 10px 5px;
+    }
+    .wrapper, .icons{
+        font-size: 12px;
+    }
+}

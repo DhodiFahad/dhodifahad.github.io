@@ -9,3 +9,11 @@
     font-weight: 700;
     max-width: 150px;
 }
+
+@media (max-width: 750px){
+    .link{
+        font-size: 12px;
+        padding: 5px;
+        max-width: 100px;
+    }
+}
