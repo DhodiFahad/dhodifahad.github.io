@@ -7,7 +7,7 @@ export const Hero =()=>{
             <span>Frontend | Mobile | Software Testing | Blockchain</span>
             <h1>
                 <span className={styles.software}>
-                  Software
+                  Software 
                 </span>
                 Developer
             </h1>
